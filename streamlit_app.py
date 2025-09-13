@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 import requests
-import BeautifulSoup
+from bs4 import BeautifulSoup
 from espn_api.football import League
 
 st.set_page_config(
