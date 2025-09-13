@@ -1,1 +1,6 @@
 streamlit
+espn-api
+pandas
+altair
+requests
+beautifulsoup4
